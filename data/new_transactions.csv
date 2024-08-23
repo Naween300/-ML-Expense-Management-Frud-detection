@@ -1,0 +1,9 @@
+Document Type,Document Number,Department,Amount,Predicted Category,Timestamp
+Invoice,1234,HR,30000.0,Other,2024-08-23 16:03:01
+Bill,12345,HR,3829.66,Other,2024-08-23 16:11:12
+Invoice,12345,HR,3829.66,Other,2024-08-23 16:28:24
+Bill,30000,Finance,30000.0,Other,2024-08-23 16:28:47
+Receipt,30000,IT,30000.0,Salaries & Benefits,2024-08-23 16:30:51
+Receipt,123,HR,123.0,Petty Cash,2024-08-23 16:40:01
+Invoice,12345,HR,3829000000000000.5,Other,2024-08-23 16:40:43
+Invoice,1234,HR,30000.0,Other,2024-08-23 17:11:44

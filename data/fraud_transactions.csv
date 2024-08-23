@@ -1,0 +1,4 @@
+Document Type,Document Number,Department,Amount,Predicted Category,Timestamp
+Receipt,213fds,HR,3829000000000000.5,Other,2024-08-23 16:45:19
+Receipt,123,HR,3000000000.0,Other,2024-08-23 17:16:05
+Invoice,30000,IT,3000000000.0,Petty Cash,2024-08-23 17:19:53

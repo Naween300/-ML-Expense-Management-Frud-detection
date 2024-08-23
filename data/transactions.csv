@@ -1,0 +1,25 @@
+Document Type,Document Number,Department,Amount,Predicted Category,Timestamp
+Invoice,30000,HR,30000.0,Other,2024-08-23 16:04:07
+Invoice,1234,HR,123.0,Petty Cash
+Invoice,1234,HR,123.0,Petty Cash,2024-08-23 16:05:27
+Invoice,12345,HR,3829.66,Other
+Invoice,12345,HR,3829.66,Other,2024-08-23 16:07:50
+Bill,12345,HR,3829.66,Other
+Invoice,30000,IT,123.0,Other
+Invoice,3000000,HR,30.0,Petty Cash
+Invoice,3000000,HR,30.0,Petty Cash,2024-08-23 16:17:12
+Invoice,123,HR,123.0,Petty Cash
+Invoice,123,HR,123.0,Petty Cash,2024-08-23 16:19:20
+Bill,123,HR,123.0,Petty Cash
+Receipt,12345,HR,3829.66,Other
+Invoice,12345,HR,3829.66,Other
+Invoice,12345,HR,3829.66,Other
+Invoice,12345,HR,3829.66,Other
+Bill,30000,Finance,30000.0,Other
+Receipt,30000,IT,30000.0,Salaries & Benefits
+Receipt,123,HR,123.0,Petty Cash
+Invoice,12345,HR,3829000000000000.5,Other
+Receipt,213fds,HR,3829000000000000.5,Other
+Invoice,1234,HR,30000.0,Other
+Receipt,123,HR,3000000000.0,Other
+Invoice,30000,IT,3000000000.0,Petty Cash
