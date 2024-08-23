@@ -1,0 +1,11 @@
+Flask==2.1.1
+pandas==1.5.0
+scikit-learn==1.2.2
+xgboost==1.5.1
+imblearn==0.10.0
+numpy==1.21.5
+streamlit==1.17.0
+plotly==5.3.1  # Required for interactive plots with Plotly in Streamlit
+joblib==1.1.0  # Required for saving and loading models
+requests==2.26.0  # Required for making HTTP requests to Flask API
+python-dotenv==0.19.2  # Required for loading environment variables
